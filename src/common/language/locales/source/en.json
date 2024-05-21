@@ -1,0 +1,35 @@
+{
+    "auth": {
+      "slogan": "Spend Smarter{{value}} Save More",
+      "start": "Get Started",
+      "yourEmail": "Email",
+      "yourPassword": "Mật khẩu",
+      "rePassword": "Nhập lại mật khẩu",
+      "login": "Đăng nhập",
+      "register": "Đăng ký",
+      "dontHaveAccount": "Không có tài khoản?",
+      "haveAccount": "Đã có tài khoản?",
+      "or": "Hoặc",
+      "loginFb": "Tiếp tục với Facebook",
+      "loginGoogle": "Tiếp tục với Gooelge",
+      "yourName": "Tên của bạn"
+    },
+    "home": {
+      "hello": "Xin Chào",
+      "totalbalance": "Tổng số dư",
+      "income": "Thu nhập",
+      "expense": "Chi tiêu"
+    },
+    "validation": {
+      "require": "Trường này là bắt buộc",
+      "email": "Sai định dạng Email",
+      "confirmPass": "Mật khẩu không trùng khớp",
+      "password": "Sai định dạng mật khẩu",
+      "minPassword": "Mật khẩu ít nhất 8 ký tự"
+    },
+    "load": {
+      "wait": "Vui lòng chờ chút",
+      "connecting": "Đang kết nối..."
+    }
+  }
+  

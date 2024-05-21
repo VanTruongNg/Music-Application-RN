@@ -1,0 +1,77 @@
+{
+    "auth": {
+      "slogan": "Spend Smarter{{value}} Save More",
+      "start": "Bất Đầu",
+      "yourPhone": "Nhập số điện thoại của bạn",
+      "yourPassword": "Mật khẩu",
+      "rePassword": "Nhập lại mật khẩu",
+      "login": "Đăng nhập",
+      "register": "Đăng ký",
+      "dontHaveAccount": "Không có tài khoản?",
+      "haveAccount": "Đã có tài khoản?",
+      "or": "Hoặc",
+      "loginFb": "Tiếp tục với Facebook",
+      "loginGoogle": "Tiếp tục với Gooelge",
+      "yourName": "Tên của bạn",
+      "continue": "Tiếp tục",
+      "enterOtp": "Nhập mã OTP đã gửi đến",
+      "notReceive": "Không nhận được mã?",
+      "resendCode": "Gửi lại",
+      "createPassword": "Tạo mật khẩu",
+      "rememberMe": "Lưu đăng nhập",
+      "loginfail": "Sai tài khoản hoặc mật khẩu"
+    },
+    "home": {
+      "viewAll": "Xem tất cả",
+      "home": "Trang chủ",
+      "search": "Tìm kiếm",
+      "library": "Thư viện"
+    },
+    "validation": {
+      "require": "Trường này là bắt buộc",
+      "phone": "Sai định dạng số điện thoại",
+      "confirmPass": "Mật khẩu không trùng khớp",
+      "password": "Sai định dạng mật khẩu",
+      "minPassword": "Mật khẩu ít nhất 6 ký tự"
+    },
+    "load": {
+      "wait": "Vui lòng chờ chút",
+      "connecting": "Đang kết nối..."
+    },
+    "button": {
+      "verify": "Xác nhận"
+    },
+    "dialog": {
+      "ok": "Đồng ý",
+      "noti": "Thông báo",
+      "errorNoti": "Lỗi",
+      "cancel": "Huỷ"
+    },
+    "search": {
+      "placeholder": "Bạn muốn nghe gì?",
+      "recent": "Các tìm kiếm gần đây",
+      "track": "Bài hát",
+      "artist": "Nghệ sĩ",
+      "follower": "Người theo dõi"
+    },
+    "player": {
+      "fromSearch": "ĐANG PHÁT TỪ TÌM KIẾM",
+      "fromRecommend": "Đang phát các bài hát được đề xuất cho bạn",
+      "fromPlaylist": "ĐANG PHÁT TỪ DANH SÁCH PHÁT"
+    },
+    "library": {
+      "playlist": "Danh sách phát",
+      "song": "Bài hát",
+      "popular": "Phổ biến",
+      "artistRelated": "Fan cũng thích",
+      "alBumRelated": "Có sự tham gia của {{artist}}",
+      "popularAlbum": "Bản phát hành mới phổ biến"
+    },
+    "album": {
+      "single": "Đĩa đơn",
+      "album": "Album",
+      "showAllAlbum": "Xem danh sách đĩa nhạc",
+      "maybeYouLike": "Có thể bạn cũng sẽ thích"
+    }
+  }
+  
